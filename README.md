@@ -25,23 +25,10 @@ Welcome to the **Movie Recommendation System**! This project is a streamlined ap
 
 ---
 
-## 📂 Project Structure  
-```
-├── data/                  # Dataset files
-├── app.py                 # Main Streamlit application
-├── recommendation.py      # Core logic for movie recommendations
-├── utils.py               # Helper functions
-├── README.md              # Project documentation
-├── requirements.txt       # Python dependencies
-└── LICENSE                # Project license
-```
-
----
-
 ## ⚙️ Setup and Installation  
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/movie-recommendation-system.git
+   git clone https://github.com/dwaitsharadmore/Movie-Recommendation.git
    cd movie-recommendation-system
    ```
 
@@ -66,6 +53,7 @@ Welcome to the **Movie Recommendation System**! This project is a streamlined ap
 ## 📊 Dataset  
 - The system is powered by a movie dataset containing details such as titles, genres, and ratings.
 - Ensure the dataset is placed in the `data/` directory before running the application.
+- You can find the dataset from Kaggle https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
 ---
 
